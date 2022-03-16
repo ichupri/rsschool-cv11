@@ -3,9 +3,9 @@
 
 ichupria@gmail.com \
 +375445553434 \
++79051001022 \
 telegram: @ichupri \
 discord: @ichupri \
-Gomel' Belarus
 
 >#### About me ####
 I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an entry-level position with Company to use my skills in coding, trouble complex problems, and assisting in the timely completion of projects.
