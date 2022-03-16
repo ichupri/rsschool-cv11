@@ -4,7 +4,7 @@
 ichupria@gmail.com \
 +375445553434 \
 telegram: @ichupri \
-discord: ichupri \
+discord: @ichupri \
 Gomel' Belarus
 
 >#### About me ####
@@ -27,6 +27,14 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 Production management in production \
 **P.O.Sukhoi State Technical University of Gomel** \
 *September 2009 - June 2013* \
+
+Basics of web technologies \
+**IT-Academy** \
+*September 2020 - October 2020* \
+
+JavaScript/Front-end. Stage 0 \
+**RS School** \
+*December 2021 - March 2022* \
 
 >##### Code example #####
 
